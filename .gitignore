@@ -11,3 +11,4 @@ node_modules
 
 # Mac system files
 .DS_Store
+pnpm-lock.yaml
